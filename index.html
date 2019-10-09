@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Twitter Sentiments Analysis-Ayush</title>
+
+
+
+      <link rel="stylesheet" href="css/style.css">
+
+
+</head>
+
+<body>
+
+  <html>
+<head>
+  <title>Sentiments Analysis-Twitter</title>
+
+
+  <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+
+  <script src="https://code.highcharts.com/highcharts.js"></script>
+  <script src="https://code.highcharts.com/modules/exporting.js"></script>
+
+</head>
+<body>
+  <div class="container">
+    <div id="queryBox">
+      Enter Keyword:
+      <input id="query" value=""/>
+      <button onClick="update()">search</button>
+    </div>
+    <div class="radios">
+      <input type="radio" name="radios" value="bubble" onclick="handleRadio(this);" class="input" checked>Bubble Chart
+      <input type="radio" name="radios" value="bar"
+      onclick="handleRadio(this);">Bar Chart
+      <input type="radio" name="radios" value="list" onclick="handleRadio(this);">Tweet List
+    </div>
+    <div id="list">
+      <pre id="results"></pre>
+      <ul id="tweets"></ul>
+    </div>
+    <div id="bar">bar</div>
+    <div id="bubble">bubble</div>
+  </div>
+</body>
+</html>
+  <script src='https://code.highcharts.com/highcharts-more.js'></script>
+
+
+
+    <script  src="js/index.js"></script>
+
+
+
+
+</body>
+
+</html>
