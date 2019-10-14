@@ -27,3 +27,5 @@ Though it all sounds very technical. However my dear friends this has an amazing
 
 *Therefore when people comment about present news stories, the sentiment analysis can actually offer a key to predict the future outcomes
  or atleast anticipate them better!*
+ 
+ [![Netlify Status](https://api.netlify.com/api/v1/badges/3a0fe308-0960-4415-acec-71d263339113/deploy-status)](https://app.netlify.com/sites/twayush/deploys)
