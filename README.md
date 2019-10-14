@@ -1,3 +1,5 @@
+ [![Netlify Status](https://api.netlify.com/api/v1/badges/3a0fe308-0960-4415-acec-71d263339113/deploy-status)](https://app.netlify.com/sites/twayush/deploys)
+
 # Twitter-Sentiment-Analysis
 My Project tittled 'Twitter Sentimental Analysis' is a web based project which uses the machine learning onecepts & algorithms to predict the sentiments of the tweets on the basis the data given from the dataset is in the form of comma separated values(csv) files with “tweets” and their corresponding sentiments. 
 
@@ -28,4 +30,4 @@ Though it all sounds very technical. However my dear friends this has an amazing
 *Therefore when people comment about present news stories, the sentiment analysis can actually offer a key to predict the future outcomes
  or atleast anticipate them better!*
  
- [![Netlify Status](https://api.netlify.com/api/v1/badges/3a0fe308-0960-4415-acec-71d263339113/deploy-status)](https://app.netlify.com/sites/twayush/deploys)
+
