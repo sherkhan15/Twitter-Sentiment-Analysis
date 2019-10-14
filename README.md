@@ -14,7 +14,7 @@ data sets.On the basis of Polarity is a float value within the range [-1.0 to 1.
 
 *Now, i would like to give a breif about the libraries that i used in my project:*
 
-1)**TEXTBLOB**, TextBlob is a Python (2 and 3) library for processing textual data. It provides a simple API for diving into 
+1) **TEXTBLOB**, TextBlob is a Python (2 and 3) library for processing textual data. It provides a simple API for diving into 
 common natural language processing (NLP) tasks such as part-of-speech tagging, noun phrase extraction, sentiment analysis, classification, 
 translation, and more.
 
